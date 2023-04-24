@@ -1,0 +1,15 @@
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\bin\Debug\net6.0\Bagageimp.exe
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\bin\Debug\net6.0\Bagageimp.deps.json
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\bin\Debug\net6.0\Bagageimp.runtimeconfig.json
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\bin\Debug\net6.0\Bagageimp.dll
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\bin\Debug\net6.0\Bagageimp.pdb
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\obj\Debug\net6.0\Bagageimp.csproj.AssemblyReference.cache
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\obj\Debug\net6.0\Bagageimp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\obj\Debug\net6.0\Bagageimp.AssemblyInfoInputs.cache
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\obj\Debug\net6.0\Bagageimp.AssemblyInfo.cs
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\obj\Debug\net6.0\Bagageimp.csproj.CoreCompileInputs.cache
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\obj\Debug\net6.0\Bagageimp.dll
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\obj\Debug\net6.0\refint\Bagageimp.dll
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\obj\Debug\net6.0\Bagageimp.pdb
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\obj\Debug\net6.0\Bagageimp.genruntimeconfig.cache
+C:\Users\zbcevlo\source\repos\Bagageimp\Bagageimp\obj\Debug\net6.0\ref\Bagageimp.dll
